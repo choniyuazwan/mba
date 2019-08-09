@@ -1,0 +1,55 @@
+support,itemsets
+0.4221105527638191,frozenset({'Anggur'})
+0.3969849246231156,frozenset({'Jeruk'})
+0.4020100502512563,frozenset({'alpokat'})
+0.4371859296482412,frozenset({'jambu'})
+0.4120603015075377,frozenset({'kurma'})
+0.39195979899497485,frozenset({'mangga'})
+0.4221105527638191,frozenset({'naga merah'})
+0.3768844221105528,frozenset({'pir'})
+0.41708542713567837,frozenset({'pisang'})
+0.4472361809045226,frozenset({'sawo'})
+0.1306532663316583,"frozenset({'Jeruk', 'Anggur'})"
+0.1507537688442211,"frozenset({'Anggur', 'alpokat'})"
+0.1507537688442211,"frozenset({'Anggur', 'jambu'})"
+0.1457286432160804,"frozenset({'kurma', 'Anggur'})"
+0.1507537688442211,"frozenset({'Anggur', 'mangga'})"
+0.1658291457286432,"frozenset({'Anggur', 'naga merah'})"
+0.15577889447236182,"frozenset({'pir', 'Anggur'})"
+0.19095477386934673,"frozenset({'pisang', 'Anggur'})"
+0.16080402010050251,"frozenset({'Anggur', 'sawo'})"
+0.1507537688442211,"frozenset({'Jeruk', 'alpokat'})"
+0.15577889447236182,"frozenset({'Jeruk', 'jambu'})"
+0.1658291457286432,"frozenset({'Jeruk', 'kurma'})"
+0.135678391959799,"frozenset({'Jeruk', 'mangga'})"
+0.1507537688442211,"frozenset({'Jeruk', 'naga merah'})"
+0.12562814070351758,"frozenset({'Jeruk', 'pir'})"
+0.1306532663316583,"frozenset({'pisang', 'Jeruk'})"
+0.15577889447236182,"frozenset({'Jeruk', 'sawo'})"
+0.1708542713567839,"frozenset({'alpokat', 'jambu'})"
+0.15577889447236182,"frozenset({'kurma', 'alpokat'})"
+0.12562814070351758,"frozenset({'alpokat', 'mangga'})"
+0.1507537688442211,"frozenset({'alpokat', 'naga merah'})"
+0.1306532663316583,"frozenset({'pir', 'alpokat'})"
+0.1507537688442211,"frozenset({'pisang', 'alpokat'})"
+0.15577889447236182,"frozenset({'alpokat', 'sawo'})"
+0.1507537688442211,"frozenset({'kurma', 'jambu'})"
+0.1306532663316583,"frozenset({'mangga', 'jambu'})"
+0.1708542713567839,"frozenset({'naga merah', 'jambu'})"
+0.1507537688442211,"frozenset({'pir', 'jambu'})"
+0.18090452261306533,"frozenset({'pisang', 'jambu'})"
+0.1708542713567839,"frozenset({'sawo', 'jambu'})"
+0.1306532663316583,"frozenset({'kurma', 'mangga'})"
+0.1407035175879397,"frozenset({'kurma', 'naga merah'})"
+0.12562814070351758,"frozenset({'kurma', 'pir'})"
+0.1306532663316583,"frozenset({'pisang', 'kurma'})"
+0.15577889447236182,"frozenset({'kurma', 'sawo'})"
+0.1306532663316583,"frozenset({'mangga', 'naga merah'})"
+0.1306532663316583,"frozenset({'pir', 'mangga'})"
+0.15577889447236182,"frozenset({'pisang', 'mangga'})"
+0.16080402010050251,"frozenset({'mangga', 'sawo'})"
+0.12562814070351758,"frozenset({'pir', 'naga merah'})"
+0.17587939698492464,"frozenset({'pisang', 'naga merah'})"
+0.16080402010050251,"frozenset({'sawo', 'naga merah'})"
+0.15577889447236182,"frozenset({'pir', 'sawo'})"
+0.18090452261306533,"frozenset({'pisang', 'sawo'})"

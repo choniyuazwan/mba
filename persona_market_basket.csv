@@ -1,0 +1,200 @@
+Transaction_ID,CardNo,Prod1,Prod2,Prod3,Prod4,Prod5
+1,83,kurma,alpokat,kurma,pisang,sawo
+2,31,naga merah,naga merah,jambu,Anggur,alpokat
+3,1,pisang,pir,alpokat,jambu,jambu
+4,51,sawo,naga merah,Jeruk,sawo,pisang
+5,85,alpokat,pir,alpokat,mangga,Anggur
+6,28,kurma,sawo,kurma,mangga,mangga
+7,18,mangga,kurma,Jeruk,alpokat,sawo
+8,50,Jeruk,Jeruk,sawo,Jeruk,naga merah
+9,52,Jeruk,Jeruk,mangga,naga merah,naga merah
+10,62,mangga,Anggur,jambu,alpokat,naga merah
+11,9,Jeruk,jambu,sawo,sawo,kurma
+12,26,pir,mangga,pir,Anggur,naga merah
+13,41,naga merah,jambu,Jeruk,jambu,Jeruk
+14,100,pir,naga merah,alpokat,Anggur,Anggur
+15,31,Anggur,naga merah,pir,pisang,pir
+16,32,pisang,alpokat,pisang,kurma,Jeruk
+17,10,mangga,Anggur,mangga,mangga,mangga
+18,69,pir,jambu,sawo,mangga,kurma
+19,52,naga merah,Jeruk,kurma,naga merah,sawo
+20,31,mangga,alpokat,Anggur,sawo,pisang
+21,4,jambu,kurma,Anggur,kurma,sawo
+22,15,sawo,sawo,pir,kurma,alpokat
+23,22,kurma,sawo,naga merah,sawo,kurma
+24,42,jambu,alpokat,pisang,pisang,mangga
+25,81,mangga,jambu,pir,kurma,pir
+26,53,Jeruk,Anggur,alpokat,naga merah,sawo
+27,42,alpokat,pisang,Anggur,Anggur,jambu
+28,20,mangga,pir,pir,sawo,naga merah
+29,96,kurma,jambu,pisang,jambu,pir
+30,32,alpokat,Anggur,naga merah,naga merah,pisang
+31,53,pisang,pisang,naga merah,sawo,jambu
+32,81,pisang,sawo,naga merah,Anggur,pir
+33,92,Jeruk,pisang,naga merah,naga merah,sawo
+34,21,naga merah,Anggur,sawo,pisang,alpokat
+35,49,naga merah,jambu,sawo,pisang,pisang
+36,33,pisang,naga merah,alpokat,Anggur,sawo
+37,94,mangga,pir,pir,pir,Anggur
+38,8,naga merah,Anggur,pir,pisang,jambu
+39,55,sawo,alpokat,pir,jambu,Anggur
+40,18,naga merah,mangga,alpokat,pisang,pisang
+41,20,jambu,mangga,kurma,sawo,kurma
+42,25,Anggur,jambu,sawo,Jeruk,pisang
+43,26,kurma,Jeruk,naga merah,Jeruk,jambu
+44,78,kurma,alpokat,sawo,jambu,alpokat
+45,14,sawo,Jeruk,naga merah,alpokat,jambu
+46,4,jambu,pir,alpokat,pir,Jeruk
+47,100,sawo,alpokat,sawo,Anggur,kurma
+48,76,sawo,naga merah,naga merah,naga merah,pir
+49,85,mangga,Jeruk,kurma,alpokat,pisang
+50,79,jambu,jambu,kurma,pir,pir
+51,67,mangga,Anggur,pisang,pisang,jambu
+52,11,Jeruk,alpokat,alpokat,Jeruk,pir
+53,62,sawo,alpokat,Jeruk,sawo,pir
+54,57,pir,mangga,alpokat,pir,sawo
+55,79,Anggur,Jeruk,kurma,Jeruk,jambu
+56,22,jambu,pir,pir,pisang,Anggur
+57,42,kurma,Anggur,sawo,pisang,mangga
+58,98,pir,Anggur,Jeruk,naga merah,alpokat
+59,56,alpokat,mangga,pisang,pisang,jambu
+60,63,Anggur,pir,kurma,sawo,Anggur
+61,78,mangga,sawo,Jeruk,sawo,mangga
+62,61,pir,sawo,mangga,Jeruk,mangga
+63,67,mangga,sawo,jambu,naga merah,pisang
+64,94,sawo,Jeruk,jambu,alpokat,pisang
+65,62,Anggur,Anggur,pisang,jambu,Jeruk
+66,87,naga merah,pisang,Anggur,sawo,mangga
+67,98,pisang,jambu,pisang,Anggur,alpokat
+68,58,kurma,pisang,Jeruk,pisang,Anggur
+69,9,alpokat,pir,pir,Anggur,pir
+70,16,Jeruk,jambu,sawo,alpokat,Jeruk
+71,79,sawo,kurma,pisang,Jeruk,Jeruk
+72,32,alpokat,jambu,Anggur,pisang,mangga
+73,93,mangga,kurma,mangga,mangga,Jeruk
+74,71,sawo,pir,Jeruk,kurma,kurma
+75,54,Anggur,pisang,kurma,mangga,sawo
+76,14,Jeruk,mangga,Jeruk,pir,pir
+77,98,Anggur,Anggur,sawo,Anggur,kurma
+78,39,naga merah,Anggur,Jeruk,sawo,jambu
+79,44,pisang,pisang,pisang,kurma,jambu
+80,18,mangga,Anggur,naga merah,pisang,naga merah
+81,69,jambu,naga merah,jambu,pisang,pisang
+82,63,naga merah,Jeruk,jambu,Anggur,alpokat
+83,16,pisang,mangga,Anggur,mangga,kurma
+84,23,kurma,naga merah,kurma,alpokat,Jeruk
+85,73,Jeruk,jambu,pisang,pisang,sawo
+86,41,kurma,Jeruk,naga merah,kurma,alpokat
+87,50,pisang,alpokat,alpokat,kurma,kurma
+88,39,sawo,naga merah,Anggur,kurma,pisang
+89,94,jambu,alpokat,sawo,pir,alpokat
+90,96,Anggur,pir,pir,Jeruk,mangga
+91,91,kurma,kurma,kurma,Anggur,kurma
+92,51,mangga,Jeruk,jambu,Anggur,pisang
+93,68,kurma,alpokat,pir,pir,pir
+94,23,pisang,jambu,alpokat,kurma,naga merah
+95,34,mangga,Jeruk,naga merah,alpokat,Anggur
+96,8,Jeruk,mangga,Anggur,pisang,pisang
+97,6,kurma,mangga,kurma,naga merah,naga merah
+98,55,sawo,jambu,mangga,jambu,pir
+99,82,jambu,naga merah,Jeruk,kurma,jambu
+100,11,mangga,sawo,Jeruk,alpokat,Jeruk
+101,16,mangga,sawo,mangga,alpokat,sawo
+102,30,kurma,Anggur,Jeruk,sawo,sawo
+103,35,pir,Jeruk,Anggur,kurma,naga merah
+104,29,naga merah,naga merah,mangga,Anggur,naga merah
+105,19,kurma,pisang,jambu,Jeruk,naga merah
+106,15,naga merah,naga merah,sawo,mangga,mangga
+107,87,pisang,kurma,alpokat,kurma,mangga
+108,85,pir,jambu,sawo,mangga,Anggur
+109,92,Jeruk,kurma,jambu,jambu,pir
+110,78,mangga,pisang,sawo,alpokat,alpokat
+111,22,kurma,Anggur,alpokat,Jeruk,mangga
+112,90,pir,Anggur,pisang,mangga,jambu
+113,92,Jeruk,pir,mangga,naga merah,pisang
+114,55,jambu,kurma,jambu,jambu,jambu
+115,45,sawo,Anggur,pir,naga merah,Anggur
+116,13,jambu,mangga,pir,pisang,naga merah
+117,2,Anggur,alpokat,naga merah,mangga,kurma
+118,44,Anggur,sawo,Jeruk,pisang,kurma
+119,59,Jeruk,sawo,pir,pir,mangga
+120,98,kurma,Jeruk,mangga,pisang,mangga
+121,62,Jeruk,jambu,sawo,sawo,mangga
+122,85,jambu,sawo,alpokat,Anggur,Jeruk
+123,16,naga merah,kurma,jambu,pir,sawo
+124,73,pir,jambu,jambu,Jeruk,sawo
+125,34,mangga,pir,kurma,jambu,naga merah
+126,76,pir,Anggur,jambu,kurma,alpokat
+127,86,pisang,sawo,Anggur,mangga,kurma
+128,18,naga merah,pir,pisang,Anggur,jambu
+129,60,alpokat,pir,jambu,Jeruk,Jeruk
+130,48,pir,Anggur,jambu,Jeruk,kurma
+131,64,naga merah,pisang,mangga,alpokat,kurma
+132,9,sawo,Anggur,pisang,Anggur,sawo
+133,28,jambu,pir,mangga,sawo,pir
+134,67,alpokat,kurma,naga merah,alpokat,pir
+135,15,naga merah,naga merah,jambu,kurma,mangga
+136,63,alpokat,alpokat,kurma,pir,jambu
+137,73,pir,jambu,mangga,jambu,naga merah
+138,48,pir,sawo,Jeruk,mangga,pisang
+139,74,kurma,naga merah,alpokat,mangga,sawo
+140,89,Anggur,naga merah,pisang,naga merah,jambu
+141,29,sawo,kurma,Anggur,Jeruk,pisang
+142,96,kurma,Jeruk,pir,alpokat,jambu
+143,76,kurma,pir,Anggur,mangga,mangga
+144,47,alpokat,kurma,sawo,pir,pir
+145,41,pisang,Jeruk,alpokat,Anggur,naga merah
+146,27,Anggur,pir,pir,pir,Anggur
+147,37,naga merah,jambu,kurma,alpokat,alpokat
+148,5,Anggur,alpokat,jambu,Jeruk,naga merah
+149,32,pir,alpokat,pisang,Anggur,kurma
+150,45,pir,sawo,pir,alpokat,pisang
+151,55,Anggur,pir,sawo,mangga,Jeruk
+152,9,Jeruk,Jeruk,jambu,alpokat,Jeruk
+153,92,alpokat,kurma,Anggur,Anggur,sawo
+154,4,Anggur,alpokat,naga merah,pisang,jambu
+155,67,naga merah,naga merah,pisang,kurma,pisang
+156,37,sawo,pisang,jambu,mangga,mangga
+157,21,pir,Jeruk,naga merah,kurma,kurma
+158,20,Jeruk,mangga,Jeruk,pir,mangga
+159,21,jambu,sawo,naga merah,pisang,jambu
+160,65,pir,Anggur,kurma,sawo,pir
+161,64,jambu,sawo,Anggur,kurma,alpokat
+162,29,Anggur,kurma,jambu,kurma,kurma
+163,54,naga merah,kurma,naga merah,pisang,Jeruk
+164,46,Jeruk,mangga,pisang,alpokat,alpokat
+165,69,Jeruk,naga merah,naga merah,sawo,pisang
+166,62,pir,sawo,pisang,pir,Anggur
+167,23,jambu,kurma,Jeruk,alpokat,alpokat
+168,33,jambu,jambu,Anggur,jambu,naga merah
+169,45,Anggur,mangga,Jeruk,pisang,kurma
+170,31,sawo,mangga,Anggur,alpokat,naga merah
+171,49,kurma,Jeruk,pisang,alpokat,pir
+172,74,Jeruk,alpokat,naga merah,alpokat,kurma
+173,65,Anggur,Anggur,sawo,naga merah,pir
+174,2,naga merah,alpokat,jambu,naga merah,pisang
+175,10,pisang,jambu,naga merah,Jeruk,sawo
+176,57,sawo,pisang,jambu,pir,Anggur
+177,56,pir,pir,pisang,naga merah,pir
+178,50,kurma,mangga,naga merah,mangga,sawo
+179,42,kurma,kurma,naga merah,mangga,pir
+180,57,naga merah,jambu,Jeruk,mangga,mangga
+181,57,naga merah,mangga,Anggur,pisang,naga merah
+182,7,jambu,kurma,kurma,pisang,Anggur
+183,98,alpokat,mangga,pisang,jambu,sawo
+184,22,Anggur,naga merah,Jeruk,pir,alpokat
+185,44,naga merah,jambu,Jeruk,mangga,kurma
+186,98,jambu,jambu,naga merah,pisang,sawo
+187,85,alpokat,jambu,pir,mangga,Jeruk
+188,86,Anggur,naga merah,Anggur,pir,pir
+189,49,Anggur,pir,mangga,Anggur,Jeruk
+190,34,sawo,pir,Jeruk,pisang,Jeruk
+191,99,alpokat,pisang,naga merah,sawo,pisang
+192,20,sawo,mangga,jambu,alpokat,mangga
+193,60,mangga,Anggur,kurma,kurma,Jeruk
+194,74,sawo,sawo,naga merah,jambu,pir
+195,54,kurma,sawo,pir,alpokat,naga merah
+196,66,alpokat,jambu,kurma,naga merah,Jeruk
+197,83,pir,alpokat,alpokat,jambu,sawo
+198,63,jambu,mangga,mangga,sawo,pisang
+199,77,alpokat,pisang,pisang,pisang,mangga
